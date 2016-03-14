@@ -1,4 +1,4 @@
-# hello-world
+# HtDP/2e
 Main repository for my learning projects
 
 lumospanda here! (The name is a play on "Firefox" that I came up with in the shower.)
